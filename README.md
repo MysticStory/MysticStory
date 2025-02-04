@@ -4,5 +4,5 @@
 ## 📫 Контакты
 - Telegram: @@MobitGrut
 
-## 📊 Статистика GitHub
-![Ваша статистика](https://github-readme-stats.vercel.app/api?username=MysticStory&show_icons=true&theme=dark)
+## 📊 Учебные проекты
+![Учебные проекты](https://github.com/MysticStory/learning-projects/tree/master)
