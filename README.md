@@ -8,6 +8,7 @@
 
   <details>
     <summary>Проекты на с++ </summary>
+    
     **[3DViewer](https://github.com/MysticStory/learning-projects/tree/master/c%2B%2B/3DViewer)**
 
     Проект реализует приложение для просмотра и трансформации 3D-моделей в каркасном виде с поддержкой формата OBJ.
@@ -29,6 +30,7 @@
 
 <details>
     <summary>Проекты на java </summary>
+  
     **[Bootcamз](https://github.com/MysticStory/learning-projects/tree/master/java/Bootcamp)**
 
 
