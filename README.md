@@ -8,7 +8,7 @@
 
   <details>
     <summary>Проекты на с++ </summary>
-    
+    <pre>
     **[3DViewer](https://github.com/MysticStory/learning-projects/tree/master/c%2B%2B/3DViewer)**
 
     Проект реализует приложение для просмотра и трансформации 3D-моделей в каркасном виде с поддержкой формата OBJ.
@@ -17,7 +17,8 @@
     (Командный проект курса Школа21)
 
     *** C++ | Makefile | CMake | QTEST ***
-
+    </pre>
+    <pre>
     **[BrickGame: Змейка и Тетрис](https://github.com/MysticStory/learning-projects/tree/master/c%2B%2B/BrickGame)**
 
     Проект реализует две классические игры — Змейку и Тетрис — на языке C++ с использованием паттерна MVC.
@@ -25,7 +26,7 @@
     (Учебный индивидуальный проект от Школы21)
 
     C++ │ Makefile │ CMake
-  
+    </pre>
 </details>
 
 <details>
